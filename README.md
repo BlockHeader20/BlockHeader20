@@ -1,5 +1,5 @@
 ### 你好 / Hi there 👋
-- 🎓 Undergraduate [@FudanUniversity](https://www.fudan.edu.cn/), majoring in Data Science
+- 🎓 Undergraduate @[FudanUniversity](https://www.fudan.edu.cn/), majoring in Data Science
 - 💻 Python / R / MATLAB ...
 - 🌏 Shanghai, China
 - 📫 bpchen20@fudan.edu.cn
