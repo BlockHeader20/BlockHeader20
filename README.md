@@ -7,4 +7,4 @@
 - 📚 Currently learning tiếng Việt / العربية
 - 🀄 Mahjong / Chess
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact)
+![Bryan's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=BlockHeader20&show_icons=true&count_private=true&theme=gotham)
