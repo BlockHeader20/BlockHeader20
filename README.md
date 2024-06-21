@@ -4,7 +4,7 @@
 - 🌏 Shanghai, China
 - 📫 bpchen20@fudan.edu.cn
 - 🗣️ 普通话 / English / 上海话
-- 📚 Currently learning tiếng Việt / العربية
+- 📚 Currently learning tiếng Việt / عربية
 - 🀄 Mahjong / Chess
 
 ![](https://github-readme-stats.vercel.app/api?username=BlockHeader20&show_icons=true&theme=transparent)
